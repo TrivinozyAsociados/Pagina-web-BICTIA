@@ -1,0 +1,28 @@
+173B0B  verde oscuro
+#ACFA58 verde claro
+0B3861 azul oscuro
+5882FA azul claro
+
+MARGIN
+1PX (ARRIBA) 2% (IZQ) 1PX (ABAJO) 2% (DER)
+
+<div class="col cuatro">
+			<div class="cajamenu1">
+				<h1 class="fondomenu efectos2">INICIO</h1>				
+			</div>
+			</div>
+		<div class="col cuatro">
+			<div class="cajamenu">
+				<h1 class="fondomenu">QUIÉNES SOMOS</h1>			
+			</div>
+		</div>
+		<div class="col cuatro">
+			<div class="cajamenu">
+				<h1 class="fondomenu">SERVICIOS</h1>			
+			</div class="cajamenu">
+		</div>
+		<div class="col cuatro">
+			<div class="cajamenu">
+				<h1 class="fondomenu">CONTACTO	</h1>			
+			</div>
+		</div>

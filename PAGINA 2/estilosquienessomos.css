@@ -1,0 +1,174 @@
+.inner{
+	width:1200px;
+	margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    min-height: 1px;
+}
+.title {
+    font-size: 1em;
+    margin: 0;
+    min-height: var(--title-height);
+    position: relative;
+    transform-origin: left top 0;
+    transform: var(--title-scale);
+}
+.title h1 {
+    top: 3em;
+    left: 3.6em;
+    position: absolute;
+    font-size: 3em;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    color: #0B3861;
+}
+.title .r {
+    transform: rotate(90deg);
+    transform-origin: left top 0;
+    font-size: 2.8em;
+    top: 1.67857em;
+    left: 1.10714em;
+    letter-spacing: 0.01em;
+    color: rgba(23,59,11,0.5);
+}
+.title>span {
+    position: absolute;
+    display: block;
+}
+.title .qui {
+    font-size: 3.2em;
+    top: 4.0625em;
+    left: 2.15625em;
+    color: rgba(0,0,0,0.4);
+}
+.title .elit {
+    font-size: 3.3em;
+    top: 3.81818em;
+    left: 2.21212em;
+    color: rgba(11,56,97,0.5);
+}
+.title .sed {
+    font-size: 2.9em;
+    top: 5.48276em;
+    left: 2.51724em;
+    color: rgba(23,59,11,0.3);
+}
+.title .labore {
+    font-size: 2.5em;
+    top: 7.8em;
+    left: 1.6em;
+    color: rgba(0,0,0,0.5);
+}
+.title .sit {
+    font-size: 4em;
+    top: 5.725em;
+    left: 1.925em;
+    color: rgba(0,0,0,0.5);
+}
+.title .dolor {
+    font-size: 3.4em;
+    letter-spacing: -0.01em;
+    top: 5.58824em;
+    left: 4.23529em;
+    color: rgba(0,0,0,0.5);
+}
+.title .adipiscing {
+    font-size: 3.7em;
+    top: 6.08108em;
+    left: 2.35135em;
+    color: rgba(0,0,0,0.4);
+}
+.title .do {
+    font-size: 1.8em;
+    top: 10.77778em;
+    left: 15.88889em;
+    color: rgba(0,0,0,0.6);
+}
+.title .amet {
+    font-size: 3.3em;
+    top: 5.90909em;
+    left: 9.78788em;
+    color: rgba(0,0,0,0.7);
+}
+.title .magna {
+    font-size: 2em;
+    top: 9.65em;
+    left: 16.25em;
+    color: rgba(0,0,0,0.6);
+}
+.title .tempor {
+    font-size: 3.5em;
+    top: 1.34286em;
+    left: 11.57143em;
+    color: rgba(0,0,0,0.6);
+    display: none;
+}
+.title .ut2 {
+    font-size: 3.3em;
+    top: 1.27273em;
+    left: 12.33333em;
+    color: rgba(0,0,0,0.6);
+}
+.title .et {
+    font-size: 3.3em;
+    top: 2.33333em;
+    left: 12.33333em;
+    color: rgba(0,0,0,0.4);
+}
+.title .enim {
+    font-size: 2.2em;
+    top: 5.22727em;
+    left: 18.54545em;
+    color: rgba(0,0,0,0.3);
+}
+.title .incididunt {
+    font-size: 3.9em;
+    letter-spacing: -0.01em;
+    top: 3.66667em;
+    left: 11.41026em;
+    color: rgba(0,0,0,0.5);
+}
+.title .libero {
+    font-size: 3em;
+    top: 4.7em;
+    left: 14.96667em;
+    color: rgba(0,0,0,0.4);
+}
+
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+.title {
+    font-size: 1em;
+}
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+header {
+    font-family: 'Oxygen', sans-serif !important;
+}
+.title .generador{
+     color: rgba(23,59,11,0.5);
+}
